@@ -11,6 +11,8 @@ A Magisk module with automatic shutdown
 > - **无义务**：不提供一对一技术支持，不接受「为什么我手机没反应」类提问。  
 > *—— 本项目遵循「技术分享」原则，非「服务承诺」。*
 
+自动关机时间在/data/adb/modules/android_auto_shutdown/time.txt，默认600s
+
 如果您觉得这个模块很垃圾那就对了，因为作者本人也这么觉得
 
 ****如果您刷入模块后没有看到通知，请充电，避免关机！！！****
